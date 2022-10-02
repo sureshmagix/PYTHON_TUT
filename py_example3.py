@@ -33,15 +33,4 @@ print("Next Random number")
 print(random.randrange(1,10))
 print("Next Random number")
 
-print(random.randrange(1,10))
-print("Next Random number")
-
-print(random.randrange(1,10))
-print("Next Random number")
-
-print(random.randrange(1,10))
-print("Next Random number")
-
-print(random.randrange(1,10))
-print("Next Random number")
 
